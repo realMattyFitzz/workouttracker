@@ -14,10 +14,11 @@ body,
 
 body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  
 }
 
 nav {
-  background-color: #7699d4;
+  background-color: black;
   color: #ffffff;
   height: 80px;
   padding: 10px;
@@ -42,6 +43,7 @@ header {
 
 header h1 {
   transform: skewX(-2deg);
+  color: white;
 }
 
 select {
@@ -96,7 +98,7 @@ input {
 }
 
 .wrapper {
-  background-color: #f2f8ff;
+  background-color: #000000;
   padding-bottom: 100px;
 }
 
@@ -104,6 +106,8 @@ input {
 .m-auto {
   margin: 0 auto;
   width: 500px;
+  background-color: black;
+  color: white;
 }
 
 form .workout-type,
@@ -111,6 +115,7 @@ form .cardio-form div,
 form .resistance-form div {
   display: flex;
   margin-top: 30px;
+  
 }
 
 form label {

@@ -1,15 +1,23 @@
-# workouttracker
-
-Description
------------
-A basic web app running on node & utilizing MongoDB w/ Mongoose that allows the user to create and track daily workouts.
-
-Installation
-------------
-You must first run npm i to install the apps dependencies, then start up the application by running node server.js. The app runs at http://localhost:8000; If you would like to seed the database with some basic workouts, run npm run seed in the terminal - this inserts the values defined in 'seeders/seed.js'.
-
-Usage
------
-Once the app is running, it will display your most recent workout on the home page (if applicable). From here you can create a new workout, or continue your current workout. In both cases, you will be prompted to enter in new exercise information - once entered, you can click "Complete" to return to the home page, or "Add Exercise" to submit the entry and add another.
-
-To view your last weeks worth of exercises, click "Dashboard".
+![license badge](https://img.shields.io/badge/license--blue)
+  # WorkoutTracker
+  ## DESCRIPTION
+  A simple web application to manage your workouts and keep track of your daily/weekly exercises.
+  ## TABLE OF CONTENTS
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [License](#license)
+  * [Contributing](#contributing)
+  * [Testing](#testing)
+  * [Questions](#questions)
+  ## INSTALLATION
+  Please run `npm i, make sure you get express. ` in the command line to install dependencies.
+  ## USAGE
+  Make sure to install the proper dependencies 
+  ## LICENSE
+  This project is licensed under the  license.
+  ## CONTRIBUTING
+  commit often
+  ## TESTING
+  To run tests, please run `node server.js` in the command line
+  ## QUESTIONS
+  All inquiries can be sent to mfitzpatrick95@gmail.com, and be sure to check out more of my GitHub projects at [realMattyFitzz](https://www.github.com/realMattyFitzz)!

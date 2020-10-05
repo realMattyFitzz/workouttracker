@@ -1,5 +1,9 @@
 ![license badge](https://img.shields.io/badge/license--blue)
   # WorkoutTracker
+  -----------------
+  
+  <img width="1393" alt="Screen Shot 2020-10-05 at 9 57 18 AM" src="https://user-images.githubusercontent.com/67922824/95109275-3c17a680-06f1-11eb-89fe-9933453112da.png">
+  
   ## DESCRIPTION
   A simple web application to manage your workouts and keep track of your daily/weekly exercises.
   ## TABLE OF CONTENTS
